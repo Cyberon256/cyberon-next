@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://cyberontech.com
+
+# Sitemaps
+Sitemap: https://cyberontech.com/sitemap.xml
